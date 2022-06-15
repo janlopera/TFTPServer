@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TFTPServer": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
